@@ -1,0 +1,2 @@
+# Face-Detection-and-Recognition
+The software developed is used to detect faces in a live video, after detecting it uses LPP and HAAR classifiers to recognize the face present in the video, by comparing the already provided databsae. Database should consist of multiple photos of similar face from different angles and different lighting conditions to make it easy for the software to recognize the face easily.
